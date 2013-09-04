@@ -9,6 +9,7 @@
     , "stylus": "*"
     , "jade": "*"
     , "less-middleware": "*"
+    , "coffee-script": "*"
     , "commander": "0.6.1"
   }
   , "bin": { "serve": "./bin/serve" }
